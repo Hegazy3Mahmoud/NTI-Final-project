@@ -58,6 +58,27 @@ The dataset contains information about supermarket sales, including:
 
 * **Combined columns:**  The 'Yangon', 'Naypyitaw', and 'Mandalay' columns were combined into a single 'City' column by creating a function to map branch codes to city names.
 
-## Final Dataset
 
-The cleaned dataset was saved as 'Cleaned_data.csv'.
+## Power BI Dashboard
+
+![project  dashboard](https://github.com/user-attachments/assets/7165bc3c-d368-4b7e-a78b-a9b2d9421bc2)
+
+1. **Total Orders:** Processed 1,000 transactions.
+2. **Total Sales:** Achieved 323K in sales across all branches.
+3. **Net Profit:** Earned 308K after deducting taxes and other expenses.
+4. **Taxes Collected:** Collected 15K in taxes, which accounts for 5% of total sales.
+5. **Customer Rating:** Received an average customer satisfaction rating of 6.97.
+6. **Sales by Gender:** A pie chart displays the sales distribution between male and female customers.
+7. **Sales by City:** A treemap illustrates total sales across Yangon, Mandalay, and Naypyitaw.
+8. **Sales by Branch:** A bar chart compares sales performance between branches A, B, and C.
+9. **Sales by Customer Type:** A bar chart compares sales between 'Member' and 'Normal' customers.
+10. **Sales by Month:** A line graph shows sales trends over the months of January, February, and March.
+11. **Sales by Product Line:** A bar chart presents sales across categories like Food and Beverages, Fashion, and Electronics.
+
+The dashboard allows for easy analysis of customer behaviors, branch performance, and product category sales, making it a valuable tool for decision-making and strategy formulation.
+
+## Final Dataset
+After data cleaning, the final dataset was exported as Cleaned_data.csv, which is now ready for further analysis or machine learning tasks.
+
+## Conclusion
+This project successfully cleaned and transformed the supermarket sales dataset. The accompanying Power BI dashboard provides valuable insights into sales performance, customer demographics, and product preferences, aiding the supermarket's management team in making data-driven decisions.
