@@ -61,7 +61,8 @@ The dataset contains information about supermarket sales, including:
 
 ## Power BI Dashboard
 
-![WhatsApp Image 2024-09-13 at 11 32 13 AM](https://github.com/user-attachments/assets/f9d41799-12e2-464a-ae72-4bc13f87dd8f)
+
+![1](https://github.com/user-attachments/assets/0534b8aa-307a-401f-9677-b0ee5b4d4d0a)
 
 
 1. **Total Orders:** Processed 1,000 transactions.
